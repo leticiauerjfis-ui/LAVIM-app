@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+pandas
+scipy
+matplotlib
+numpy
+fpdf2
+pytesseract
+openai
